@@ -199,3 +199,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/.assignmentManagerSavedObjects.pl
+/assignmentManagerResources_rc.py

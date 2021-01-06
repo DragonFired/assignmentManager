@@ -1,6 +1,12 @@
 <RCC>
-  <qresource prefix="images">
-    <file>images/Gear-icon-291x300.png</file>
-    <file>images/restartIcon.png</file>
-  </qresource >
+  <qresource prefix="icons">
+    <file alias="spreadsheetIcon">images/spreadsheetIcon.png</file>
+    <file alias="calendarIcon">images/calendarIcon.png</file>
+    <file alias="buildFileIcon">images/buildFileIcon.png</file>
+    <file alias="collapseAll">images/collapseAllIcon.png</file>
+    <file alias="expandAll">images/expandAllIcon.png</file>
+    <file alias="trashCan">images/trashCanIcon.png</file>
+    <file alias="gearIcon">images/Gear-icon-291x300.png</file>
+    <file alias="folderIcon">images/folder-icon.png</file>
+  </qresource>
 </RCC>
